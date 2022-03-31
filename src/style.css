@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.icon > img{
+    object-fit: none;
+}
+.nav button
+{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #1A1A1A;
+    letter-spacing: 0.4px;
+}

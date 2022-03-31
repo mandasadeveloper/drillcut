@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drillcut/static/css/main.07783949.css",
+    "main.js": "/drillcut/static/js/main.cb9680be.js",
+    "static/media/Vector.svg": "/drillcut/static/media/Vector.8ec485ff992d28b89e1771003ade49e4.svg",
+    "static/media/Pos.svg": "/drillcut/static/media/Pos.b2471201c215e8001e8f98424178ce56.svg",
+    "index.html": "/drillcut/index.html",
+    "main.07783949.css.map": "/drillcut/static/css/main.07783949.css.map",
+    "main.cb9680be.js.map": "/drillcut/static/js/main.cb9680be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07783949.css",
+    "static/js/main.cb9680be.js"
+  ]
+}
